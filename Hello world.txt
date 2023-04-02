@@ -2,4 +2,3 @@ print("Hello World!");
 print("Hello everybody!");
 print("Hello github");
 print("Hello");
-print("my dear friend");
