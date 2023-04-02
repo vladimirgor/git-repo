@@ -1,2 +1,0 @@
-print("think")
-print("drill")
