@@ -1,2 +1,2 @@
-print("Let us continue")
-print("Do it")
+print("Let us continue.");
+print("Do it.");
