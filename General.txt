@@ -1,2 +1,2 @@
-print("everything")
-print("all")
+print("everything.");
+print("all.");
