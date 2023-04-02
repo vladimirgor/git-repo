@@ -1,0 +1,2 @@
+print("think")
+print("drill")
