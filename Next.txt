@@ -1,2 +1,2 @@
-print("next")
-print("remember")
+print("next.")
+print("remember.")
