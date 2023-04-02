@@ -1,5 +1,5 @@
-Hello World!
-Hello everybody!
-Hello github
-Hello
-print("my dear friend")
+print("Hello World!");
+print("Hello everybody!");
+print("Hello github");
+print("Hello");
+print("my dear friend");
