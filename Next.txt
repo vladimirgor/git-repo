@@ -1,3 +1,4 @@
 print("next")
 print("remember")
 print("always")
+print("forever")
