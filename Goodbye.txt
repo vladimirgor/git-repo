@@ -1,3 +1,5 @@
 print("goodbye.");
 print("bye.");
 print("see you.");
+print("i'll give you a call.");
+print("i'll be back.")
