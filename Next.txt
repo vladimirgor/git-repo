@@ -1,4 +1,4 @@
-print("next.")
-print("remember.")
-print("always.")
-print("forever.")
+print("next.");
+print("remember.");
+print("always.");
+print("forever.");
