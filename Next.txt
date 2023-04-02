@@ -1,6 +1,6 @@
-print("next.")
-print("remember.")
-print("always.")
-print("forever.")
-print("go away.")
-print("tomorrow")
+print("next.");
+print("remember.");
+print("always.");
+print("forever.");
+print("go away.");
+print("tomorrow.");
