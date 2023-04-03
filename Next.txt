@@ -6,3 +6,4 @@ print("go away!");
 print("tomorrow.");
 print("morning.");
 print("day.");
+print("night.");
