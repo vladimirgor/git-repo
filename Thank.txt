@@ -1,1 +1,1 @@
-print("Thank a lot")
+print("Thank a lot");
