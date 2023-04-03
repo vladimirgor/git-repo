@@ -2,7 +2,7 @@ print("next.");
 print("remember.");
 print("always.");
 print("forever.");
-print("go away.");
+print("go away!");
 print("tomorrow.");
 print("morning.");
 print("day.");
