@@ -1,3 +1,4 @@
 print("work")
 print("full day")
 print("give my job")
+print("I'll do that faster")
